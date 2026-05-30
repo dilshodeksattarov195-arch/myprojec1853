@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervalculate",
+        "uuid": 559606,
+        "checksum": "b0avx"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
